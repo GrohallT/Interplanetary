@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PlanetFactoryData>
+    <fpdPhraseList>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>0</idealValue>
+            <phraseContent>Your ship lands in a grassy clearing. To your right, a river calmly flows. To your left, there is a dense forest of diverse flora and fauna.</phraseContent>
+            <colorList>
+                <color>Green</color>
+                <color>Blue</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>10</idealValue>
+            <phraseContent>You step out into a prairie. A small animal darts away from your ship, rustling the grass.</phraseContent>
+            <colorList>
+                <color>Green</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>20</idealValue>
+            <phraseContent>You land by a river on a beach of coarse sand and gravel. You lean over the edge of the water and see a numerous and diverse assortment of aquatic fauna.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+                <color>Brown</color>
+                <color>Blue</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>30</idealValue>
+            <phraseContent>You land in a forest similar to the taiga of Earth. Small animals can be seen scurrying along the branches of the towering trees.</phraseContent>
+            <colorList>
+                <color>Green</color>
+                <color>White</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>40</idealValue>
+            <phraseContent>You land in an arctic biome. Large mammals roam the chilly landscape, and the majority of them seem to be quite defensive.</phraseContent>
+            <colorList>
+                <color>White</color>
+                <color>White</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>50</idealValue>
+            <phraseContent>You land on a very small island on a planet covered largely in water. The soil is coarse, and the sky is dense with clouds.</phraseContent>
+            <colorList>
+                <color>Blue</color>
+                <color>Grey</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>60</idealValue>
+            <phraseContent>You land by a small spring. The rough gravel surface crunches under your boots.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>70</idealValue>
+            <phraseContent>You land on a very soft surface. Upon inspection, it appears to be a mixture slush and soil.</phraseContent>
+            <colorList>
+                <color>White</color>
+                <color>Brown</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>80</idealValue>
+            <phraseContent>Your ship lands on a salt flat. The brilliantly white surface stretches to the horizon on all sides.</phraseContent>
+            <colorList>
+                <color>White</color>
+                <color>White</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>FarmingDiff</planetAttribute>
+            <idealValue>90</idealValue>
+            <phraseContent>You land on a rocky precipice. The sky is dark and there are no flora nor fauna in sight.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+                <color>Orange</color>
+                <color>Red</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>0</idealValue>
+            <phraseContent>The rocks are soft and various veins of precious minerals can be seen on nearby cliff faces.</phraseContent>
+            <colorList>
+                <color>Brown</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>10</idealValue>
+            <phraseContent>Rocky outcrops are strewn about the landing site. The mining crew examines a nearby outcrop and find it rich with various ores.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>20</idealValue>
+            <phraseContent>The mining crew reports that their tests have found the mining conditions of this planet to be suitable.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>30</idealValue>
+            <phraseContent>The mining crew sifts through a nearby patch of gravel and begins accumulating a small pile of useful minerals.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>40</idealValue>
+            <phraseContent>The mining crew reaches bedrock after digging through the soil for about a minute.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>50</idealValue>
+            <phraseContent>The mining crew has been digging through the soil for a few minutes, but they have not yet struck bedrock.</phraseContent>
+            <colorList>
+                <color>Brown</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>60</idealValue>
+            <phraseContent>All nearby rock outcrops appear to be made of the same few types of metamorphic rock. Tests show that the rocks are very hard, and scans show low compositional variation.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>70</idealValue>
+            <phraseContent>A crewmate strikes a nearby rock outcrop with a robotic drill. The drill makes very little progress, even on the highest power setting.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>80</idealValue>
+            <phraseContent>The mining crew inspects several prospective mining sites, but they find that they are all unbearably hot. Scans suggest the tectonic plates of this planet are unusually thin.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+                <color>Orange</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>MiningDiff</planetAttribute>
+            <idealValue>90</idealValue>
+            <phraseContent>The mining team searches for a viable mining location with radar for several minutes, but they find none.</phraseContent>
+            <colorList>
+                <color>Yellow</color>
+                <color>White</color>
+                <color>Orange</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>0</idealValue>
+            <phraseContent>You hear strange, calming music coming from far away. A sleek all-terrain vehicle approaches and stops at a distance. Three bipedal creatures step out and stand by their vehicle, watching your crew.</phraseContent>
+            <colorList>
+                <color>White</color>
+                <color>Green</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>10</idealValue>
+            <phraseContent>A watercraft floats by. The passengers appear to notice you and call out to you in a language you don't understand.</phraseContent>
+            <colorList>
+                <color>Blue</color>
+                <color>Blue</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>20</idealValue>
+            <phraseContent>Two armored vehicles approach the ship at high speed. The driver and a passenger jump out of one of the vehicles. The creatures both have four arms, and both of them carry one weapon. However, they don't seem intent on a hostile encounter. </phraseContent>
+            <colorList>
+                <color>Grey</color>
+                <color>Brown</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>30</idealValue>
+            <phraseContent>A beacon lights up in the distance, followed by a low, growling drone. The light fades between shades of blue, violet, and ultraviolet. It is uncertain whether this is meant to be a welcoming gesture, but it is certainly meant to get your attention.</phraseContent>
+            <colorList>
+                <color>Blue</color>
+                <color>Grey</color>
+                <color>Brown</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>40</idealValue>
+            <phraseContent>A few miles away, you see a small community of civilized beings. There seems to be commotion among the group, suggesting that they may have seen the ship land, but they are not sure how to react.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>50</idealValue>
+            <phraseContent>A swarm of reptiles begins to stir close by. They seem to be communicating.</phraseContent>
+            <colorList>
+                <color>Yellow</color>
+                <color>Brown</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>60</idealValue>
+            <phraseContent>You hear chirps, calls, and defensive noises from many creatures in the area. Your arrival seems to have disturbed several species.</phraseContent>
+            <colorList>
+                <color>Green</color>
+                <color>White</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>70</idealValue>
+            <phraseContent>You hear sirens in the distance. When you look towards the source, you see a city with architecture similar to that of mid-21st century Earth. Overall, they appear to be a peaceful society, but they seem to be more than ready for a fight, if necessary.</phraseContent>
+            <colorList>
+                <color>Green</color>
+                <color>Blue</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>80</idealValue>
+            <phraseContent>Enormous fortresses lie on the horizon. The walls are dotted with weaponized lookout towers.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+                <color>Yellow</color>
+                <color>Orange</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>Hostility</planetAttribute>
+            <idealValue>90</idealValue>
+            <phraseContent>Large spacecraft drift overhead. The ships are undoubtably built for interstellar conflict.</phraseContent>
+            <colorList>
+                <color>Grey</color>
+                <color>Orange</color>
+                <color>Red</color>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>0</idealValue>
+            <phraseContent>One of your crewmates wanders over to a pile of stones. The pile is too big to have been formed naturally, but there is no indication of who or what created it.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>10</idealValue>
+            <phraseContent>You spot the remains of a campfire several meters away, next to some kind of rudimentary shelter with a very thin entrance.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>20</idealValue>
+            <phraseContent>Your co-pilot nudges you and points out a crude arrowhead lying in a patch of dirt a few feet away.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>30</idealValue>
+            <phraseContent>About a mile away, you spot a series of dilapidated shelters built from organic materials. The settlement seems to be abandoned.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>40</idealValue>
+            <phraseContent>A brown plastic bag drifts through the air. Off in the distance, you see a plume of smoke and steam.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>50</idealValue>
+            <phraseContent>From where you stand, you can see five structures that resemble Earth's cell towers.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>60</idealValue>
+            <phraseContent>One of your crew members walks over to investigate a metallic triangular monolith. Over the radio, he reports that the three rectangular sides are smooth except for a bolt in each corner. There is no sign of what purpose it may serve.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>70</idealValue>
+            <phraseContent>There are a number of tall lamp posts in the area. The spherical lights at the tips grow brighter as your crewmates approach them.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>80</idealValue>
+            <phraseContent>An incredibly fast aircraft crosses the sky, leaving behind a white trail and making surprisingly little noise.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+        <FpdPhrase>
+            <planetAttribute>AdvancementLevel</planetAttribute>
+            <idealValue>90</idealValue>
+            <phraseContent>Out of the corner of your eye, you see a triangular drone soaring over a group of your crewmates. The drone lands in front of them gently on three legs that unfold beneath it. A holographic interface projects from the top. The hologram is dense with diagrams and symbols that no one recognizes.</phraseContent>
+            <colorList>
+            </colorList>
+        </FpdPhrase>
+    </fpdPhraseList>
+    <fsdPhraseList>
+        <FsdPhrase>
+            <quantityID>BiologicalActivity</quantityID>
+            <idealValue>20</idealValue>
+            <phraseContent>Biological scans indicate low activity.</phraseContent>
+        </FsdPhrase>
+        <FsdPhrase>
+            <quantityID>BiologicalActivity</quantityID>
+            <idealValue>50</idealValue>
+            <phraseContent>Biological scans indicate moderate activity.</phraseContent>
+        </FsdPhrase>
+        <FsdPhrase>
+            <quantityID>BiologicalActivity</quantityID>
+            <idealValue>80</idealValue>
+            <phraseContent>Biological scans indicate high activity.</phraseContent>
+        </FsdPhrase>
+        <FsdPhrase>
+            <quantityID>Geology</quantityID>
+            <idealValue>20</idealValue>
+            <phraseContent>Geological scans show that the planet has few useful minerals.</phraseContent>
+        </FsdPhrase>
+        <FsdPhrase>
+            <quantityID>Geology</quantityID>
+            <idealValue>50</idealValue>
+            <phraseContent>Geological scans suggest that the planet has a fair amount of useful resources.</phraseContent>
+        </FsdPhrase>
+        <FsdPhrase>
+            <quantityID>Geology</quantityID>
+            <idealValue>80</idealValue>
+            <phraseContent>Geological scans reveal that this planet has high geological diversity and is rich with resources.</phraseContent>
+        </FsdPhrase>
+    </fsdPhraseList>
+    <planetImageItemList>
+        <PlanetImageItem>
+            <imageFileName>/planet000.png</imageFileName>
+            <colorList>
+                <color>Green</color>
+                <color>Blue</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet001.png</imageFileName>
+            <colorList>
+                <color>Orange</color>
+                <color>Brown</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet002.png</imageFileName>
+            <colorList>
+                <color>Blue</color>
+                <color>White</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet003.png</imageFileName>
+            <colorList>
+                <color>Grey</color>
+                <color>Yellow</color>
+                <color>White</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet004.png</imageFileName>
+            <colorList>
+                <color>Blue</color>
+                <color>Brown</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet005.png</imageFileName>
+            <colorList>
+                <color>White</color>
+                <color>Grey</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet006.png</imageFileName>
+            <colorList>
+                <color>Orange</color>
+                <color>Red</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet007.png</imageFileName>
+            <colorList>
+                <color>Green</color>
+                <color>White</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet008.png</imageFileName>
+            <colorList>
+                <color>Blue</color>
+                <color>Green</color>
+                <color>White</color>
+                <color>Grey</color>
+            </colorList>
+        </PlanetImageItem>
+        <PlanetImageItem>
+            <imageFileName>/planet009.png</imageFileName>
+            <colorList>
+                <color>White</color>
+                <color>Brown</color>
+                <color>Grey</color>
+            </colorList>
+        </PlanetImageItem>
+    </planetImageItemList>
+</PlanetFactoryData>
